@@ -1,4 +1,4 @@
-transactions=[['A','C','D'],['B','C','E'],['A','B','C','E'],['B','E'],['A','B','C','F']]
+transactions=[['A','C','D'],['B','C','E'],['A','B','C','E','F'],['B','E'],['A','B','C','E'],['A','F']]
 tables=[{}]
 supmin=2
 for i in range(len(transactions)):
